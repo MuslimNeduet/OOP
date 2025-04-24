@@ -7,7 +7,7 @@ class AbstractEmployee{
 
 class Employee:AbstractEmployee{
     private:
-    string Name;
+    string Name; 
     string Company;
     int Age;
     public:
